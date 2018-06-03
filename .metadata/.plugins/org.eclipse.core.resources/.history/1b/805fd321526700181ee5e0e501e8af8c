@@ -1,0 +1,7 @@
+package org.bank.user;
+
+public class UserBO {
+	public void createUser(UserBean userBean){
+		
+	}
+}

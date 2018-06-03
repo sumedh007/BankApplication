@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Bank/src/org/bank/user/CreateUser.java&apos;" deleteContents="false" description="Delete resource &apos;Bank/src/org/bank/user/CreateUser.java&apos;" element1="/Bank/src/org/bank/user/CreateUser.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1528045358383"/>
+</session>
